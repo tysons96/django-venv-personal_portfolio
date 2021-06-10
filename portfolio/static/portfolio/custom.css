@@ -1,0 +1,61 @@
+.navbar-nav .nav-link {
+    color: rgba(0,0,0,1) !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: rgba(46, 5, 7, 0) !important;
+}
+
+.box{
+    height: auto;
+    width: auto;
+    outline: 0in;
+}
+
+#description{
+    color: black;
+    font-size: 30px;
+}
+
+body{
+    font-family: 'Righteous', cursive;
+    color: black;
+    background-color: rgb(0, 255, 242);
+}
+
+.description{
+    font-size: 20px;
+}
+
+
+
+#subtitle{
+    color: red;
+}
+
+.text-center h5 {
+    color: #000000;
+}
+
+#text-muted{
+   color: darkslateblue;
+}
+
+
+
+#blogtitle {
+    font-size: 4rem;
+    color: crimson;
+}
+
+@media (min-width: 992px) {
+    #hometext {
+        font-size: 4rem;
+    }
+    #blogdetailtitle {
+        font-size: 5rem;
+    }
+}
+
+
+
